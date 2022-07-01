@@ -1,0 +1,16 @@
+@media screen and (max-width: 767px ) {
+    .myH{
+        margin-left: 12px;
+        text-align: center;
+    }
+    .ourHeroimg{
+        margin-top: 20px;
+        width: 1050px;
+    }
+    .signs{
+        margin: 75px 12px;
+    }
+    .ourImg{
+        margin: 12px;
+    }
+}
